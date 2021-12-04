@@ -1,6 +1,6 @@
 package com.stack.bpm;
 
-import com.ferris.fw.task.EnableFerrisTask;
+import com.ustack.fw.task.EnableFerrisTask;
 import org.camunda.bpm.spring.boot.starter.annotation.EnableProcessApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
